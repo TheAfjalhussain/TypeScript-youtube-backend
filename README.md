@@ -82,6 +82,7 @@ and also combines the tweet functionality from twitter into it. Find more about 
 
     ```bash
     cd TypeScript-youtube-backend
+    tsc -b
     npm install
     ```
 
